@@ -1,0 +1,103 @@
+
+
+body{
+   
+    background-image: url("images/welcome.jpg");
+    background-repeat: no-repeat;
+    /* background-position: 50%; */
+
+    background-color: lightcoral;
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+  /*padding-left: 50%;*/
+  
+}
+
+h1{
+    text-align: center;
+  
+ 
+}
+
+
+.form{
+    width: 100%;
+    position: relative;
+  max-width: 335px;
+   padding: 40px 0px;
+  margin: auto 54rem ;
+}
+
+
+.first{
+    padding: 10px 5px; 
+    width: 100%;
+    margin-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+
+.last{
+    padding: 10px 5px; 
+    width: 100%;
+    margin-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+  
+
+.email{
+    padding: 10px 5px; 
+    width: 100%;
+    margin-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+  
+
+.password{
+    padding: 10px 5px; 
+    width: 100%;
+    margin-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+.button{
+    padding: 10px 5px; 
+    border-radius: 50%;
+    width: 50%;
+    background-color: lightblue;
+}
+
+.paragraph{
+    text-align: center;
+    justify-content: center;
+font-weight: 200;
+
+}
+
+.button:hover{
+    background-color: lightcoral;
+}
+
+
+.checkbox{
+    background-color: lightblue;
+}
